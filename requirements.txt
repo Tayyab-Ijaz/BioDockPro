@@ -1,0 +1,11 @@
+# Core scientific libraries
+numpy
+pandas
+biopython
+# Visualization
+py3Dmol
+matplotlib
+seaborn
+
+# Optional helpers
+tqdm
